@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/31943f5c-b54f-4d0b-84f9-6fa6f632de13/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/horitakuappdemo01",
+    "appService.deploySubpath": "."
+}
